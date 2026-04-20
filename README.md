@@ -2,7 +2,8 @@
 
 Customer Churn Analysis & Retention Strategy 📉
 
-Tech Stack: SQL Server | Power BI | 
+Tech Stack: SQL Server | Power BI 
+
 📋 Project Overview
 
 This project focuses on identifying and mitigating customer attrition for a telecommunications provider. By analyzing a dataset of 6,418 customers, I developed an end-to-end business intelligence solution that identifies why customers are leaving and quantifies the financial impact of churn. The project resulted in a data-driven retention strategy aimed at saving $3.41M in at-risk revenue.
